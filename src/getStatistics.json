@@ -1,0 +1,687 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 10.524,
+      "fmt": "10.52"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0.0143099995,
+      "fmt": "1.43%"
+    },
+    "enterpriseToEbitda": {
+      "raw": 78.538,
+      "fmt": "78.54"
+    },
+    "52WeekChange": {
+      "raw": 5.0100946,
+      "fmt": "501.01%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": 13.93,
+      "fmt": "13.93"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 185475008,
+      "fmt": "185.48M",
+      "longFmt": "185,475,008"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 52.984,
+      "fmt": "52.98"
+    },
+    "sharesShort": {
+      "raw": 13958518,
+      "fmt": "13.96M",
+      "longFmt": "13,958,518"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.0753,
+      "fmt": "7.53%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1577750400,
+      "fmt": "2019-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.57927,
+      "fmt": "57.93%"
+    },
+    "netIncomeToCommon": {
+      "raw": 383864992,
+      "fmt": "383.86M",
+      "longFmt": "383,864,992"
+    },
+    "trailingEps": {
+      "raw": 1.922,
+      "fmt": "1.92"
+    },
+    "lastDividendValue": {},
+    "SandP52WeekChange": {
+      "raw": 0.0644362,
+      "fmt": "6.44%"
+    },
+    "priceToBook": {
+      "raw": 26.743921,
+      "fmt": "26.74"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.2051,
+      "fmt": "20.51%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1640908800,
+      "fmt": "2021-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1593475200,
+      "fmt": "2020-06-30"
+    },
+    "shortRatio": {
+      "raw": 1.2,
+      "fmt": "1.2"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1590710400,
+      "fmt": "2020-05-29"
+    },
+    "floatShares": {
+      "raw": 148121100,
+      "fmt": "148.12M",
+      "longFmt": "148,121,100"
+    },
+    "beta": {
+      "raw": 1.196078,
+      "fmt": "1.2"
+    },
+    "enterpriseValue": {
+      "raw": 270567997440,
+      "fmt": "270.57B",
+      "longFmt": "270,567,997,440"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {},
+    "lastSplitFactor": null,
+    "legalType": null,
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {},
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1593475200,
+      "fmt": "2020-06-30"
+    },
+    "pegRatio": {
+      "raw": 0.66,
+      "fmt": "0.66"
+    },
+    "ytdReturn": {},
+    "forwardPE": {
+      "raw": 101.7229,
+      "fmt": "101.72"
+    },
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.094399996,
+      "fmt": "9.44%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 16089116,
+      "fmt": "16.09M",
+      "longFmt": "16,089,116"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "price": {
+    "quoteSourceName": "Nasdaq Real Time Price",
+    "regularMarketOpen": {
+      "raw": 1416.01,
+      "fmt": "1,416.01"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 14707671,
+      "fmt": "14.71M",
+      "longFmt": "14,707,671"
+    },
+    "exchange": "NMS",
+    "regularMarketTime": 1595620801,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 1465,
+      "fmt": "1,465.00"
+    },
+    "shortName": "Tesla, Inc.",
+    "averageDailyVolume10Day": {
+      "raw": 16388950,
+      "fmt": "16.39M",
+      "longFmt": "16,388,950"
+    },
+    "longName": "Tesla, Inc.",
+    "regularMarketChange": {
+      "raw": -96.06995,
+      "fmt": "-96.07"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 1513.07,
+      "fmt": "1,513.07"
+    },
+    "postMarketTime": 1595635172,
+    "preMarketPrice": {},
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": -14.5,
+      "fmt": "-14.50"
+    },
+    "postMarketPrice": {
+      "raw": 1402.5,
+      "fmt": "1,402.50"
+    },
+    "exchangeName": "NasdaqGS",
+    "preMarketChange": {},
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 1366.68,
+      "fmt": "1,366.68"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 1417,
+      "fmt": "1,417.00"
+    },
+    "regularMarketVolume": {
+      "raw": 19396616,
+      "fmt": "19.40M",
+      "longFmt": "19,396,616.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "CLOSED",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 262818086912,
+      "fmt": "262.82B",
+      "longFmt": "262,818,086,912.00"
+    },
+    "quoteType": "EQUITY",
+    "volumeAllCurrencies": {},
+    "postMarketSource": "FREE_REALTIME",
+    "strikePrice": {},
+    "symbol": "TSLA",
+    "postMarketChangePercent": {
+      "raw": -0.010232886,
+      "fmt": "-1.02%"
+    },
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.06349339,
+      "fmt": "-6.35%"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0.134,
+      "fmt": "13.40%"
+    },
+    "profitMargins": {
+      "raw": 0.0143099995,
+      "fmt": "1.43%"
+    },
+    "grossMargins": {
+      "raw": 0.19770999,
+      "fmt": "19.77%"
+    },
+    "operatingCashflow": {
+      "raw": 2705393920,
+      "fmt": "2.71B",
+      "longFmt": "2,705,393,920"
+    },
+    "revenueGrowth": {
+      "raw": -0.049,
+      "fmt": "-4.90%"
+    },
+    "operatingMargins": {
+      "raw": 0.04736,
+      "fmt": "4.74%"
+    },
+    "ebitda": {
+      "raw": 3445068032,
+      "fmt": "3.45B",
+      "longFmt": "3,445,068,032"
+    },
+    "targetLowPrice": {
+      "raw": 87,
+      "fmt": "87.00"
+    },
+    "recommendationKey": "hold",
+    "grossProfits": {
+      "raw": 4069000000,
+      "fmt": "4.07B",
+      "longFmt": "4,069,000,000"
+    },
+    "freeCashflow": {
+      "raw": 1333425920,
+      "fmt": "1.33B",
+      "longFmt": "1,333,425,920"
+    },
+    "targetMedianPrice": {
+      "raw": 940.36,
+      "fmt": "940.36"
+    },
+    "currentPrice": {
+      "raw": 1417,
+      "fmt": "1,417.00"
+    },
+    "earningsGrowth": {},
+    "currentRatio": {
+      "raw": 1.25,
+      "fmt": "1.25"
+    },
+    "returnOnAssets": {
+      "raw": 0.02174,
+      "fmt": "2.17%"
+    },
+    "numberOfAnalystOpinions": {
+      "raw": 30,
+      "fmt": "30",
+      "longFmt": "30"
+    },
+    "targetMeanPrice": {
+      "raw": 1115.34,
+      "fmt": "1,115.34"
+    },
+    "debtToEquity": {
+      "raw": 124.716,
+      "fmt": "124.72"
+    },
+    "returnOnEquity": {
+      "raw": 0.051859997,
+      "fmt": "5.19%"
+    },
+    "targetHighPrice": {
+      "raw": 2608,
+      "fmt": "2,608.00"
+    },
+    "totalCash": {
+      "raw": 8615000064,
+      "fmt": "8.62B",
+      "longFmt": "8,615,000,064"
+    },
+    "totalDebt": {
+      "raw": 14138999808,
+      "fmt": "14.14B",
+      "longFmt": "14,138,999,808"
+    },
+    "totalRevenue": {
+      "raw": 25708464128,
+      "fmt": "25.71B",
+      "longFmt": "25,708,464,128"
+    },
+    "totalCashPerShare": {
+      "raw": 46.317,
+      "fmt": "46.32"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 141.384,
+      "fmt": "141.38"
+    },
+    "quickRatio": {
+      "raw": 0.823,
+      "fmt": "0.82"
+    },
+    "recommendationMean": {
+      "raw": 3,
+      "fmt": "3.00"
+    }
+  },
+  "quoteType": {
+    "exchange": "NMS",
+    "shortName": "Tesla, Inc.",
+    "longName": "Tesla, Inc.",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-14400000",
+    "quoteType": "EQUITY",
+    "symbol": "TSLA",
+    "messageBoardId": "finmb_27444752",
+    "market": "us_market"
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1603238400,
+          "fmt": "2020-10-21"
+        },
+        {
+          "raw": 1603670400,
+          "fmt": "2020-10-26"
+        }
+      ],
+      "earningsAverage": {
+        "raw": 2.43,
+        "fmt": "2.43"
+      },
+      "earningsLow": {
+        "raw": 1.11,
+        "fmt": "1.11"
+      },
+      "earningsHigh": {
+        "raw": 3.76,
+        "fmt": "3.76"
+      },
+      "revenueAverage": {
+        "raw": 8054930000,
+        "fmt": "8.05B",
+        "longFmt": "8,054,930,000"
+      },
+      "revenueLow": {
+        "raw": 6681000000,
+        "fmt": "6.68B",
+        "longFmt": "6,681,000,000"
+      },
+      "revenueHigh": {
+        "raw": 9005300000,
+        "fmt": "9.01B",
+        "longFmt": "9,005,300,000"
+      }
+    },
+    "exDividendDate": {},
+    "dividendDate": {}
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 1513.07,
+      "fmt": "1,513.07"
+    },
+    "regularMarketOpen": {
+      "raw": 1416.01,
+      "fmt": "1,416.01"
+    },
+    "twoHundredDayAverage": {
+      "raw": 813.24036,
+      "fmt": "813.24"
+    },
+    "trailingAnnualDividendYield": {},
+    "payoutRatio": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 1465,
+      "fmt": "1,465.00"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 16388950,
+      "fmt": "16.39M",
+      "longFmt": "16,388,950"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 1513.07,
+      "fmt": "1,513.07"
+    },
+    "fiftyDayAverage": {
+      "raw": 1210.3022,
+      "fmt": "1,210.30"
+    },
+    "trailingAnnualDividendRate": {},
+    "open": {
+      "raw": 1416.01,
+      "fmt": "1,416.01"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 16388950,
+      "fmt": "16.39M",
+      "longFmt": "16,388,950"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {},
+    "exDividendDate": {},
+    "beta": {
+      "raw": 1.196078,
+      "fmt": "1.20"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 1366.68,
+      "fmt": "1,366.68"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "trailingPE": {
+      "raw": 737.25287,
+      "fmt": "737.25"
+    },
+    "regularMarketVolume": {
+      "raw": 19396616,
+      "fmt": "19.4M",
+      "longFmt": "19,396,616"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 262818086912,
+      "fmt": "262.82B",
+      "longFmt": "262,818,086,912"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 14707671,
+      "fmt": "14.71M",
+      "longFmt": "14,707,671"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 10.223018,
+      "fmt": "10.22"
+    },
+    "dayLow": {
+      "raw": 1366.68,
+      "fmt": "1,366.68"
+    },
+    "ask": {
+      "raw": 1402,
+      "fmt": "1,402.00"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 1000,
+      "fmt": "1k",
+      "longFmt": "1,000"
+    },
+    "volume": {
+      "raw": 19396616,
+      "fmt": "19.4M",
+      "longFmt": "19,396,616"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 1794.99,
+      "fmt": "1,794.99"
+    },
+    "forwardPE": {
+      "raw": 101.7229,
+      "fmt": "101.72"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {},
+    "fiftyTwoWeekLow": {
+      "raw": 211,
+      "fmt": "211.00"
+    },
+    "bid": {
+      "raw": 1401.01,
+      "fmt": "1,401.01"
+    },
+    "tradeable": false,
+    "dividendYield": {},
+    "bidSize": {
+      "raw": 1100,
+      "fmt": "1.1k",
+      "longFmt": "1,100"
+    },
+    "dayHigh": {
+      "raw": 1465,
+      "fmt": "1,465.00"
+    }
+  },
+  "symbol": "TSLA",
+  "pageViews": {
+    "shortTermTrend": "UP",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  },
+  "quoteData": {
+    "TSLA": {
+      "sourceInterval": 15,
+      "quoteSourceName": "Delayed Quote",
+      "regularMarketOpen": {
+        "raw": 1416.01,
+        "fmt": "1,416.01"
+      },
+      "exchange": "NMS",
+      "regularMarketTime": {
+        "raw": 1595620801,
+        "fmt": "4:00PM EDT"
+      },
+      "fiftyTwoWeekRange": {
+        "raw": "211.0 - 1794.99",
+        "fmt": "211.00 - 1,794.99"
+      },
+      "sharesOutstanding": {
+        "raw": 185475008,
+        "fmt": "185.475M",
+        "longFmt": "185,475,008"
+      },
+      "regularMarketDayHigh": {
+        "raw": 1465,
+        "fmt": "1,465.00"
+      },
+      "shortName": "Tesla, Inc.",
+      "longName": "Tesla, Inc.",
+      "exchangeTimezoneName": "America/New_York",
+      "regularMarketChange": {
+        "raw": -96.06995,
+        "fmt": "-96.07"
+      },
+      "regularMarketPreviousClose": {
+        "raw": 1513.07,
+        "fmt": "1,513.07"
+      },
+      "fiftyTwoWeekHighChange": {
+        "raw": -377.99,
+        "fmt": "-377.99"
+      },
+      "exchangeTimezoneShortName": "EDT",
+      "fiftyTwoWeekLowChange": {
+        "raw": 1206,
+        "fmt": "1,206.00"
+      },
+      "exchangeDataDelayedBy": 0,
+      "regularMarketDayLow": {
+        "raw": 1366.68,
+        "fmt": "1,366.68"
+      },
+      "priceHint": 2,
+      "currency": "USD",
+      "regularMarketPrice": {
+        "raw": 1417,
+        "fmt": "1,417.00"
+      },
+      "regularMarketVolume": {
+        "raw": 19396616,
+        "fmt": "19.397M",
+        "longFmt": "19,396,616"
+      },
+      "isLoading": false,
+      "triggerable": true,
+      "gmtOffSetMilliseconds": -14400000,
+      "firstTradeDateMilliseconds": 1277818200000,
+      "region": "US",
+      "marketState": "CLOSED",
+      "marketCap": {
+        "raw": 262818086912,
+        "fmt": "262.818B",
+        "longFmt": "262,818,086,912"
+      },
+      "quoteType": "EQUITY",
+      "invalid": false,
+      "symbol": "TSLA",
+      "language": "en-US",
+      "fiftyTwoWeekLowChangePercent": {
+        "raw": 5.7156396,
+        "fmt": "571.56%"
+      },
+      "regularMarketDayRange": {
+        "raw": "1366.68 - 1465.0",
+        "fmt": "1,366.68 - 1,465.00"
+      },
+      "messageBoardId": "finmb_27444752",
+      "fiftyTwoWeekHigh": {
+        "raw": 1794.99,
+        "fmt": "1,794.99"
+      },
+      "fiftyTwoWeekHighChangePercent": {
+        "raw": -0.21058056,
+        "fmt": "-21.06%"
+      },
+      "uuid": "ec367bc4-f92c-397c-ac81-bf7b43cffaf7",
+      "market": "us_market",
+      "fiftyTwoWeekLow": {
+        "raw": 211,
+        "fmt": "211.00"
+      },
+      "regularMarketChangePercent": {
+        "raw": -6.3493395,
+        "fmt": "-6.35%"
+      },
+      "fullExchangeName": "NasdaqGS",
+      "tradeable": false
+    }
+  },
+  "mktmData": {}
+}

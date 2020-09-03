@@ -1,0 +1,81 @@
+body {
+  font-family: 'DM Serif Display', serif;
+  background-color: #17252a
+}
+
+p {
+  font-family: 'Roboto Slab', serif;
+}
+
+/* Colors */
+.primary-text {
+  color: #3AAFA9
+}
+.secondary-text {
+  color: #2B7A78
+}
+.dark-text {
+  color: #17252a
+}
+.light-text {
+  color: #DEF2E1
+}
+
+.primary-bg {
+  background-color: #3AAFA9
+}
+.secondary-bg {
+  background-color: #2B7A78
+}
+.dark-bg {
+  background-color: #17252a
+}
+.light-bg {
+  background-color: #DEF2E1
+}
+
+/* App component */
+.App {
+  width: 100vw;
+  height: auto;
+  align-items: center;
+}
+
+.input {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2vw;
+  border-width: 0;
+  width: 100%;
+  background: transparent;
+}
+
+.input:focus {
+  border-width: 0;
+  border-color: transparent;
+  outline: none;
+}
+
+/* Nav */
+.nav-pills .nav-link.active {
+  background: #DEF2E1;
+  color: #17252a
+}
+
+.nav-pills .nav-link:hover {
+  color: #2B7A78;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* Value grid style */
+.grid-cell {
+  border: 1px solid #DEF2E1;
+  padding-top: 16px;
+}
+
+/* Formula item */
+.expression {
+  font-size: 2vw;
+}

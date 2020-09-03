@@ -1,0 +1,291 @@
+{
+  "finance": {
+      "result": {
+          "symbol": "TSLA",
+          "instrumentInfo": {
+              "technicalEvents": {
+                  "provider": "Trading Central",
+                  "shortTerm": "down",
+                  "midTerm": "up",
+                  "longTerm": "up"
+              },
+              "keyTechnicals": {
+                  "provider": "Trading Central",
+                  "support": 231.13,
+                  "resistance": 1490.0,
+                  "stopLoss": 1226.812018
+              },
+              "valuation": {
+                  "color": 0.0,
+                  "description": "Overvalued",
+                  "relativeValue": "Premium",
+                  "provider": "Trading Central"
+              },
+              "recommendation": {
+                  "targetPrice": 1888.0,
+                  "provider": "Argus Research",
+                  "rating": "BUY"
+              }
+          },
+          "reports": [
+              {
+                  "id": "27614_Technical Analysis_1596672000000",
+                  "title": "Technical Assessment: Bullish in the Intermediate-Term",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-08-06T00:00:00Z",
+                  "summary": "The S&P 500 is finally breaking free from its eight-week bullish consolidation, and with Wednesday's gains, filled the gap from February 24 that ran up to 3,328. The very last piece of resistance is from the February 19 all-time high (ATH) at 3,386. The Nasdaq and Nasdaq 100 have already moved to ATHs. The MDY is approaching its prior high from June 8 while the IWM surpassed its June 8 high. As we said in July, the advance/decline lines of the major indices either are near or at ATHs as breadth continues to lead price."
+              },
+              {
+                  "id": "3630_Analyst Report_1595548800000",
+                  "title": "Analyst Report: Tesla Inc",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-07-24T00:00:00Z",
+                  "summary": "Tesla Inc. manufactures and sells electric vehicles, and energy generation and storage systems. The company was founded in 2003 and went public in June 2010. Tesla has approximately 49,000 employees and is headquartered in Palo Alto, California."
+              },
+              {
+                  "id": "27508_Market Summary_1595548800000",
+                  "title": "Market Digest: CSX, FITB, HBAN, LMT, UNP, TSLA, TWTR, BHF",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-07-24T00:00:00Z",
+                  "summary": "Stocks fell sharply on Thursday afternoon amid more weak employment data. First-time jobless claims rose to 1.416 million in the week ended July 18, above the consensus forecast and the first increase since March 28. Continuing claims, reported with a one-week lag, totaled 16.197 million, below the consensus of 17.1 million and down from the prior week. The employment data came as the government's extended $600 per week unemployment benefit was set to expire at the end of the month. Republicans have proposed reducing the $600 payment, but will face strong opposition from House Democrats, who in May approved a new $3 trillion aid package that included extended unemployment benefits. The Dow fell 1.31%, the S&P 1.23%, and the Nasdaq 2.29%. Crude oil fell 1.5% to $41 per barrel, while gold rose $18 to $1884 per ounce."
+              },
+              {
+                  "id": "27171_Technical Analysis_1591920000000",
+                  "title": "Technical Assessment: Bullish in the Intermediate-Term",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-06-12T00:00:00Z",
+                  "summary": "It was an ugly reversal for the stock market on Thursday, with the S&P 500 falling 188 points, or 5.9%. That is the largest one-day decline since March 16. The Nasdaq gave up 5.3%, the S&P 400 MidCap 400 (MDY) plunged 7.2% and the Russell 2000 (IWM) was off 7.5%. Is this a one- or two-day hit that shakes things up quickly or something bigger? There is still strong support under the indices, so perhaps this is a much-needed and quick momentum/sentiment reset."
+              },
+              {
+                  "id": "27096_Market Update_1591142400000",
+                  "title": "Market Update: TSLA, DG, AES",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-06-03T00:00:00Z",
+                  "summary": "Stocks rose strongly on Wednesday morning on continued economic optimism as investors again looked past protests in major cities and ongoing tensions with China. Payroll provider ADP said that private employers laid off 2.76 million workers in May, down from 19.557 million in April and much better than the Reuters consensus forecast, which called for a loss of 9 million jobs. The Institute for Supply Management said that its services index rose to 45.4 in May, still showing contraction but up from an 11-year low of 41.8 in April. The Dow rose 1.6%, the S&P 1.2%, and the Nasdaq 0.7%. Crude oil traded near $37 per barrel, while gold fell $37 to $1697 per ounce."
+              },
+              {
+                  "id": "3630_Analyst Report_1591142400000",
+                  "title": "Analyst Report: Tesla Inc",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-06-03T00:00:00Z",
+                  "summary": "Tesla Inc. manufactures and sells electric vehicles, and energy generation and storage systems. The company was founded in 2003 and went public in June 2010. Tesla has approximately 49,000 employees and is headquartered in Palo Alto, California."
+              },
+              {
+                  "id": "26834_Market Update_1588291200000",
+                  "title": "Market Update: AAPL, IQV, MSFT, NOK, PFE, TSLA, V, BA, IPG, LEN, RJF",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-05-01T00:00:00Z",
+                  "summary": "Stocks fell sharply on Friday morning after President Trump threatened to impose new tariffs on China for its handling of the coronavirus crisis. Manufacturing data was also weak. The Institute for Supply Management said that its factory index fell to 41.5 in April, the lowest level since April 2009, from 49.1 in March. Amazon shares fell more than 7% after the company warned that it could post a quarterly loss due to high expenses related to the pandemic. The S&P fell 2.8%, the Dow 2.4%, and the Nasdaq 3.1%. Crude oil rose slightly to $19 per barrel, while gold rose $14 to $1708 per ounce."
+              },
+              {
+                  "id": "26705_Technical Analysis_1586995200000",
+                  "title": "Technical Assessment: Bearish in the Intermediate-Term",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-04-16T00:00:00Z",
+                  "summary": "When we break out the weekly charts of the major indices, we see some positive developments. But more is needed. The S&P 500 has retaken its bull-market trendline (off the lows since 2011) as well as its 200-week moving average. The Nasdaq Composite has regained its bull-market trendline after finding support near its 200-week average. The Nasdaq 100 (QQQ) never broke its uptrend or its 200-week average, and is one of the first indices to reclaim its 50- and 200-day averages."
+              },
+              {
+                  "id": "26516_Technical Analysis_1585094400000",
+                  "title": "Technical Assessment: Bearish in the Intermediate-Term",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-03-25T00:00:00Z",
+                  "summary": "\"In like a lion, out like a lamb.\" Let's hope March lives up to its reputation, as the lion's (stock market) roar has been deafening. Yesterday, we harped on the terrible price action of Mondays in March, but Turnaround Tuesday has been in full force as well. The last three Tuesday's have seen gains of 4.9%, 6%, and 9.4% for the S&P 500."
+              },
+              {
+                  "id": "3630_Analyst Report_1585008000000",
+                  "title": "Analyst Report: Tesla Inc",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-03-24T00:00:00Z",
+                  "summary": "Tesla Inc. manufactures and sells electric vehicles, and energy generation and storage systems. The company was founded in 2003 and went public in June 2010. Tesla has approximately 49,000 employees and is headquartered in Palo Alto, California."
+              },
+              {
+                  "id": "26506_Market Summary_1585008000000",
+                  "title": "Market Digest: LGND, SYY, TSLA, MRK, MCHP, QCOM, UN",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-03-24T00:00:00Z",
+                  "summary": "Stock prices continue to fall. Corporate executives, directors and beneficial owners continue to fall over themselves in a mad rush to acquire shares that we can only assume they view as significantly oversold. A mere month ago, life was 'normal' for most of us. Today it is not normal at all, yet insiders are acting as if this opportunity for investors is one that simply cannot be ignored."
+              },
+              {
+                  "id": "26325_Stock Picks_1583107200000",
+                  "title": "Weekly Stock List",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-03-02T00:00:00Z",
+                  "summary": "Last week was the worst for stocks since the financial crisis. For the week, the S&P 500 plunged 384 points, or 11.5%. The Dow Jones Industrial Average dropped 3,583 points, or 12.4%. The S&P 500 started this week 12% from its all-time high. Is a bear market beginning?  We don't think so, or at least don't think that stocks will be down too long, as positive fundamentals remain intact. The economy is growing at about a 2% pace; interest rates are at historical lows and the Federal Reserve is ready to act; and corporate earnings are on the upswing, after a down year.  Of course, if health officials are unable to contain the coronavirus, then a recession may be coming and a bear market as well. We are somewhat reassured that global health officials have managed previous viral scares such as AIDS, SARS, MERS and Ebola, and stocks have recovered lost ground in a year.  So a little bargain hunting may be in order.  Here are the 10 BUY-rated stocks under Argus Coverage that dropped the most last week."
+              },
+              {
+                  "id": "3630_Analyst Report_1580688000000",
+                  "title": "Analyst Report: Tesla Inc",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-02-03T00:00:00Z",
+                  "summary": "Tesla Inc. manufactures and sells electric vehicles, and energy generation and storage systems. The company was founded in 2003 and went public in June 2010. Tesla has approximately 49,000 employees and is headquartered in Palo Alto, California."
+              },
+              {
+                  "id": "26087_Market Summary_1580688000000",
+                  "title": "Market Digest: GD, WDC, BA, BXP, FB, HON, ITW, LRCX, NDAQ, SIVB, TSLA, SAP, X",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-02-03T00:00:00Z",
+                  "summary": "Stocks fell sharply on Friday, as concerns about the increasing death toll and potential economic impact of the coronavirus reached heightened levels. The Dow Jones Industrial Average fell 2.1%, the Nasdaq Composite was down 1.6% and the S&P 500 declined 1.8%. The benchmarks were volatile all week, as virus news flow worsened to include additional travel restrictions, halted commercial flights and the World Health Organization declaring a public health emergency. For the week, the Dow dropped 2.5%, while the Nasdaq and S&P 500 fell 1.8% and 2.1%, respectively. The poor weekly showing pushed the Dow and S&P 500 to year-to-date losses of 1.0% and 0.2%, respectively, while the Nasdaq clings to a 2.0% gain. "
+              },
+              {
+                  "id": "25926_Stock Picks_1578873600000",
+                  "title": "Weekly Stock List",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-01-13T00:00:00Z",
+                  "summary": "U.S. and Chinese officials are set to sign a Phase 1 trade agreement on Wednesday. The agreement should mark a cooling of the trade war between the countries, which has been percolating for almost two years. Phase 1 elements include China's agreeing to purchase $200 billion of U.S. goods over the next two years, while the U.S. will be reducing tariffs on Chinese products. In addition, both sides will meet every six months to resolve disputes. President Trump has indicated that a complete trade deal between the countries could involve two or three phases, though no meetings or timetables have been set. There is much to like about China, which continues to grow its economy at a 6% clip and is the second-largest economy in the world in terms of total GDP.  China is a $14 trillion economy and represents about 16% of the $86 trillion global economy. Thus, China is a critical contributor to overall global economic growth, even if it \"only\" grows 5%-6%. In fact, 6% growth in the Chinese economy today adds more to global output -- by our reckoning, 20% of incremental GDP growth this year -- than the 10% growth achieved five years ago, when China was growing faster but was smaller. We expect extraordinary growth -- in the 5%-7% range -- to continue in China for at least the next decade. Drilling deeper, we think it is important to note that, on a GDP per-capita basis, this mighty nation remains a fraction of the size of the United States. Thus, the growth going forward may be different from the growth experienced in the past decade. We are expecting a shift in focus of Chinese out of domestic infrastructure such as dams, roads, airports, rail systems and cities and into raising the living standards of its 1.4 billion people, spending on programs to lift citizens out of rural poverty, lengthening their lives and cleaning the air, among other initiatives.  This growth should favor business and consumer services, as well as financial services and healthcare."
+              },
+              {
+                  "id": "25879_Market Update_1578355200000",
+                  "title": "Market Update: TSLA, THO",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-01-07T00:00:00Z",
+                  "summary": "Stocks were mixed on Tuesday morning following new economic data and renewed tensions in the Middle East. The Commerce Department reported that the U.S. trade deficit in goods and services decreased to $43.1 billion from $46.9 billion in October, the lowest level since 2016. The December ISM non-manufacturing index came in at 55%, above expectations and the November reading of 53.9%. In other news, the U.S. Census Bureau reported that new orders for U.S. manufactured goods dropped 0.7% following 0.2% growth in October. The Dow Jones Industrial Average fell 0.2%, the S&P 500 0.2% while the Nasdaq Composite was up 0.1%. Crude oil traded above $62 per barrel, while gold was up $3 to $1571 per ounce."
+              },
+              {
+                  "id": "3630_Analyst Report_1578355200000",
+                  "title": "Analyst Report: Tesla Inc",
+                  "provider": "Argus Research",
+                  "publishedOn": "2020-01-07T00:00:00Z",
+                  "summary": "Tesla Motors designs and manufactures electric vehicles and electric vehicle powertrain components. It sells its vehicles through a network of 80 stores and galleries in North America, Europe, and Asia and through its website. The company was founded in 2003 and went public in June 2010. It introduced its first model, the Tesla Roadster, in 2008, its Model S four-door sedan in 2012 and its Model 3 in 2017. Tesla has approximately 49,000 employees and is headquartered in Palo Alto, California."
+              },
+              {
+                  "id": "25531_Thematic Portfolio_1574294400000",
+                  "title": "The Argus Millennial Generation Model Portfolio",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-11-21T00:00:00Z",
+                  "summary": "We have published our latest version of the Argus Millennial Generation portfolio. This new generation of consumers - the Millennials - has recently become the largest demographic cohort in the country, and this group, with new lifestyle preferences and different career goals, is demanding a new menu of sustainable products and services. The intersection of important Millennial trends - sustainability, healthier living, an entrepreneurial spirit - has resulted in the emergence and growth of numerous companies well suited to the new generation. Many of these companies are expected to be future industry leaders and are included in the dynamic Argus Universe of Coverage. A diversified portfolio, of course, is more than just a list of companies linked to themes. To build the Argus Millennial Generation Portfolio, we applied financial concepts such as industry diversification, income generation, risk reduction and growth at a reasonable price."
+              },
+              {
+                  "id": "3630_Analyst Report_1571961600000",
+                  "title": "Analyst Report: Tesla Inc",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-10-25T00:00:00Z",
+                  "summary": "Tesla Motors designs and manufactures electric vehicles and electric vehicle powertrain components. It sells its vehicles through a network of 80 stores and galleries in North America, Europe, and Asia and through its website. The company was founded in 2003 and went public in June 2010. It introduced its first model, the Tesla Roadster, in 2008 and its Model S four-door sedan in 2012. Tesla has approximately 10,000 employees and is headquartered in Palo Alto, California."
+              },
+              {
+                  "id": "25312_Market Update_1571961600000",
+                  "title": "Market Update: PKG, RJF, MMM, AMZN, ITW, LUV, TSLA, TWTR, V, AAL, IPG",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-10-25T00:00:00Z",
+                  "summary": "Stocks rose on Friday morning following reports that U.S. and Chinese negotiators were close to finalizing certain sections of a trade deal. On the earnings front, Amazon shares fell after the company reported slower revenue growth in its Amazon Web Services business and issued disappointing fourth-quarter sales guidance. The S&P rose 0.4%, the Dow 0.7%, and the Nasdaq 0.6%. Crude oil traded near $56 per barrel, while gold rose slightly to $1507 per ounce."
+              },
+              {
+                  "id": "3630_Analyst Report_1564099200000",
+                  "title": "Strong prospects despite disappointing 2Q",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-07-26T00:00:00Z",
+                  "summary": "Tesla Motors designs and manufactures electric vehicles and electric vehicle powertrain components. It sells its vehicles through a network of 80 stores and galleries in North America, Europe, and Asia and through its website. The company was founded in 2003 and went public in June 2010. It introduced its first model, the Tesla Roadster, in 2008 and its Model S four-door sedan in 2012. Tesla has approximately 10,000 employees and is headquartered in Palo Alto, California."
+              },
+              {
+                  "id": "24555_Market Summary_1564099200000",
+                  "title": "Market Digest: HAS, MMM, CLS, FB, IVZ, NOK, RJF, TROW, TSLA, VMC, WM",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-07-26T00:00:00Z",
+                  "summary": "Stocks fell on Thursday afternoon amid mixed earnings reports from major companies, and new trade, employment, and capital goods data. The European Central Bank also disappointed investors by failing to cut interest rates, in contrast with the U.S. Federal Reserve, which is expected to announce a rate cut next week. The Commerce Department said that the U.S. trade deficit narrowed by 1.2% to $74.2 billion in June as exports and imports both fell, and also announced stronger-than-expected capital goods orders. On the employment front, the Labor Department said that first-time unemployment benefit claims fell by 10,000 to a seasonally adjusted 206,000 for the week ended July 20, below the Reuters consensus forecast. The Dow fell 0.47%, the S&P 0.53%, and the Nasdaq 1.0%. Crude oil rose slightly to about $56 per barrel, while gold fell $9 to $1415 per ounce."
+              },
+              {
+                  "id": "3630_Analyst Report_1556236800000",
+                  "title": "Reaffirming BUY despite a 1Q19 operating loss",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-04-26T00:00:00Z",
+                  "summary": "Tesla Motors designs and manufactures electric vehicles and electric vehicle powertrain components. It sells its vehicles through a network of 80 stores and galleries in North America, Europe, and Asia and through its website. The company was founded in 2003 and went public in June 2010. It introduced its first model, the Tesla Roadster, in 2008 and its Model S four-door sedan in 2012. Tesla has approximately 10,000 employees and is headquartered in Palo Alto, California."
+              },
+              {
+                  "id": "23824_Market Update_1556236800000",
+                  "title": "Market Update: COF, HSY, LAZ, LRCX, RSG, SBUX, XLNX, TSLA",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-04-26T00:00:00Z",
+                  "summary": "Stocks were largely flat on Friday morning as investors weighed a new round of earnings reports and better-than-expected 1Q GDP. The Commerce Department said that the U.S. economy expanded at a 3.2% annualized rate in the first quarter, up from 2.2% in 4Q and above the Reuters consensus forecast of 2.0% growth. On the earnings front, Intel shares fell 10% on disappointing full-year guidance, while Ford shares rose 10% after the automaker posted strong first-quarter earnings. The S&P rose 0.2%, the Dow rose 0.1%, and the Nasdaq fell 0.1%. Crude oil fell more than 3% to $63 per barrel, while gold rose $10 to $1290 per ounce."
+              },
+              {
+                  "id": "23629_Thematic Portfolio_1554249600000",
+                  "title": "Millennial Generation Portfolio",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-04-03T00:00:00Z",
+                  "summary": "A new generation of consumers - the Millennials - has become the largest demographic cohort in the"
+              },
+              {
+                  "id": "3630_Analyst Report_1552262400000",
+                  "title": "Reaffirming BUY following Model 3 announcement",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-03-11T00:00:00Z",
+                  "summary": "Tesla Motors designs and manufactures electric vehicles and electric vehicle powertrain components. The company was founded in 2003 and went public in June 2010. It introduced its first model, the Tesla Roadster, in 2008 and its Model S four-door sedan in 2012. Tesla has approximately 10,000 employees and is headquartered in Palo Alto, California."
+              },
+              {
+                  "id": "23426_Market Summary_1552262400000",
+                  "title": "Market Digest: MRVL, TGNA, M, WCG, TSLA",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-03-11T00:00:00Z",
+                  "summary": "Stocks closed down on Friday following a much worse-than-expected February jobs report, but did rebound substantially off the morning lows. The Dow Jones Industrial Average was down 0.1%, while both the Nasdaq Composite and S&P 500 lost 0.2%. Negative news was the theme for the week, with the benchmarks closing lower on all five trading days. Declines registered 2.2% for both the Dow and S&P 500, and 2.5% for the Nasdaq. Year-to-date gains were trimmed to 9.1% for the Dow, 11.7% for the Nasdaq, and 9.4% for the S&P 500."
+              },
+              {
+                  "id": "23329_Thematic Portfolio_1551139200000",
+                  "title": "The Case for Innovation",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-02-26T00:00:00Z",
+                  "summary": "Innovation may be hard to define but, to borrow from former U.S. Supreme Court Justice Potter Stewart, you know it when you see it. The United States economy is full of innovation. It has to be. Manufacturing industries that dominated the economy decades ago - textiles, televisions, even automobiles, to a large degree - have moved overseas, where costs are lower. Yet the U.S. economy has expanded to record levels and is still growing. If U.S. corporations weren't innovating, creating new products and services and moving into new markets and applications, the domestic economy would be contracting, not expanding, and capital would not be flooding into the country. Focusing on the key themes of innovation and income-generation, Argus has identified approximately 30 companies within its universe of coverage that have been combined to form a diversified \"Innovators\" portfolio."
+              },
+              {
+                  "id": "3630_Analyst Report_1549238400000",
+                  "title": "Swings to profitability on stronger production",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-02-04T00:00:00Z",
+                  "summary": "Tesla Motors designs and manufactures electric vehicles and electric vehicle powertrain components. It sells its vehicles through a network of 80 stores and galleries in North America, Europe, and Asia and through its website. The company was founded in 2003 and went public in June 2010. It introduced its first model, the Tesla Roadster, in 2008 and its Model S four-door sedan in 2012. Tesla has approximately 10,000 employees and is headquartered in Palo Alto, California."
+              },
+              {
+                  "id": "23144_Market Update_1549238400000",
+                  "title": "Market Update: EBAY, HP, SAP, TSLA",
+                  "provider": "Argus Research",
+                  "publishedOn": "2019-02-04T00:00:00Z",
+                  "summary": "Stocks were flat on Monday morning, as gains in the Technology and Communication Services sectors were offset by losses in Healthcare, Energy, and Utilities. On the economic front, the Commerce Department reported that orders for U.S. factory goods fell 0.6% in November, an improvement from the 2.1% decline in October but below the Reuters consensus forecast of 0.2% growth. The report was delayed due to the government shutdown. The Dow, the S&P, and the Nasdaq were all down about 0.1%. Crude oil fell 1% to about $55 per barrel, while gold fell $6 to $1316 per ounce."
+              },
+              {
+                  "id": "3630_Analyst Report_1540771200000",
+                  "title": "Posts 3Q18 profit on stronger production",
+                  "provider": "Argus Research",
+                  "publishedOn": "2018-10-29T00:00:00Z",
+                  "summary": "Tesla Motors designs and manufactures electric vehicles and electric vehicle powertrain components. It sells its vehicles through a network of 80 stores and galleries in North America, Europe, and Asia and through its website. The company was founded in 2003 and went public in June 2010. It introduced its first model, the Tesla Roadster, in 2008 and its Model S four-door sedan in 2012. Tesla has approximately 10,000 employees and is headquartered in Palo Alto, California."
+              },
+              {
+                  "id": "22373_Market Summary_1540771200000",
+                  "title": "Market Digest: FII, GILD, GOOGL, INTC, IP, MO, ODFL, RCL, ROP, RSG, LDOS, SYK, WDC, WM, TSLA, CFX, FTV",
+                  "provider": "Argus Research",
+                  "publishedOn": "2018-10-29T00:00:00Z",
+                  "summary": "Stocks attempted to rally following early selling on Friday, but reversed course as the day wore on and finished sharply lower on the day. The Nasdaq Composite fared the worst as light guidance from large-cap technology stocks led to heavy selling pressure particularly for Amazon and Alphabet, leaving the index down 2.1% for the day. The S&P 500 fell 1.7%, while a strong performance for Intel enabled the Dow Jones Industrial Average to hold up a bit better with a 1.2% decline. Uncharacteristically weak guidance led to poor performance for many individual stocks last week, resulting in losses of 3.9% for the S&P 500, 3.8% for the Nasdaq and 3.0% for the Dow. Those performances pushed both the S&P 500 and Dow into negative territory for the year, with declines of 0.6% and 0.1%, respectively, while the Nasdaq is clinging to a 3.8% year-to-date gain.  "
+              },
+              {
+                  "id": "3630_Analyst Report_1538611200000",
+                  "title": "Shares rebound following SEC settlement",
+                  "provider": "Argus Research",
+                  "publishedOn": "2018-10-04T00:00:00Z",
+                  "summary": "Tesla Motors designs and manufactures electric vehicles and electric vehicle powertrain components. It sells its vehicles through a network of 80 stores and galleries in North America, Europe, and Asia and through its website. The company was founded in 2003 and went public in June 2010. It introduced its first model, the Tesla Roadster, in 2008 and its Model S four-door sedan in 2012. Tesla has approximately 10,000 employees and is based in Palo Alto, California."
+              },
+              {
+                  "id": "22209_Market Summary_1538611200000",
+                  "title": "Market Digest: INTU, KR, TSLA",
+                  "provider": "Argus Research",
+                  "publishedOn": "2018-10-04T00:00:00Z",
+                  "summary": "Onward to the Fourth Quarter: Our Monthly Survey of the Economy, Interest Rates, and Markets"
+              }
+          ],
+          "companySnapshot": {
+              "sectorInfo": "Consumer Cyclical",
+              "company": {
+                  "innovativeness": 0.9665,
+                  "hiring": 0.8442000000000001,
+                  "sustainability": 0.9358,
+                  "insiderSentiments": 0.21230000000000002,
+                  "earningsReports": 0.9962000000000001
+              },
+              "sector": {
+                  "innovativeness": 0.5,
+                  "hiring": 0.5,
+                  "sustainability": 0.5,
+                  "insiderSentiments": 0.5,
+                  "earningsReports": 0.5,
+                  "dividends": 0.5
+              }
+          }
+      },
+      "error": null
+  }
+}
